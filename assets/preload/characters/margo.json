@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				213
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "margo left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				213
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "margo down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				131,
+				215
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "margo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				214
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "margo right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				213
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "margo dance right"
+		},
+		{
+			"offsets": [
+				130,
+				213
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "margo dance left"
+		},
+		{
+			"offsets": [
+				130,
+				213
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "relax",
+			"indices": [],
+			"name": "margo relax"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/margo",
+	"position": [
+		-100,
+		-180
+	],
+	"healthicon": "margula",
+	"flip_x": false,
+	"healthbar_colors": [
+		200,
+		255,
+		120
+	],
+	"camera_position": [
+		-40,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

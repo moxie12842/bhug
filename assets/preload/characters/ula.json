@@ -1,0 +1,128 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				129,
+				213
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ula left"
+		},
+		{
+			"offsets": [
+				130,
+				213
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ula down"
+		},
+		{
+			"offsets": [
+				131,
+				215
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ula up"
+		},
+		{
+			"offsets": [
+				130,
+				214
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ula right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				213
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "ula idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				213
+			],
+			"anim": "shutup",
+			"fps": 12,
+			"name": "ula shutup",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				213
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				3,
+				4,
+				3,
+				4,
+				3,
+				4,
+				3,
+				4,
+				3,
+				4,
+				3,
+				4,
+				3,
+				4,
+				3,
+				4,
+				3,
+				4,
+				3,
+				4,
+				3,
+				4
+			],
+			"fps": 12,
+			"anim": "angery",
+			"loop": false,
+			"name": "ula angery"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ula",
+	"position": [
+		-180,
+		-180
+	],
+	"healthicon": "ula",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-90,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

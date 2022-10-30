@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "gef right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "gef left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Kiss",
+			"fps": 12,
+			"name": "gef kiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Wink",
+			"fps": 12,
+			"name": "gef wink",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gef",
+	"position": [
+		-140,
+		-180
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		40,
+		77
+	],
+	"camera_position": [
+		10,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

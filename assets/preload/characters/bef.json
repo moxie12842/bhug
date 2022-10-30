@@ -1,0 +1,192 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				128,
+				213
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "bef idle dance"
+		},
+		{
+			"offsets": [
+				124,
+				213
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bef NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				130,
+				213
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bef NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				131,
+				215
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bef NOTE UP0"
+		},
+		{
+			"offsets": [
+				130,
+				214
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bef NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				127,
+				212
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bef NOTE LEFT MISS0"
+		},
+		{
+			"offsets": [
+				133,
+				213
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bef NOTE DOWN MISS0"
+		},
+		{
+			"offsets": [
+				129,
+				213
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bef NOTE UP MISS0"
+		},
+		{
+			"offsets": [
+				127,
+				212
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bef NOTE RIGHT MISS0"
+		},
+		{
+			"offsets": [
+				127,
+				212
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "hey",
+			"indices": [],
+			"name": "bef HEY"
+		},
+		{
+			"offsets": [
+				124,
+				209
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "bef dead loop0"
+		},
+		{
+			"offsets": [
+				124,
+				209
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "bef dead confirmed0"
+		},
+		{
+			"offsets": [
+				124,
+				209
+			],
+			"indices": [
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				6,
+				7,
+				7,
+				8,
+				8,
+				9,
+				9,
+				10,
+				10,
+				11,
+				11,
+				12,
+				12
+			],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "bef dies0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bef",
+	"position": [
+		60,
+		170
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		370,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
