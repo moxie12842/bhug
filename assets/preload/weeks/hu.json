@@ -1,0 +1,32 @@
+{
+	"storyName": "hands up! (vs. margo & ula)",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "hu",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"hands-up",
+			"margula",
+			[
+				240,
+				175,
+				100
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Hands up"
+}
